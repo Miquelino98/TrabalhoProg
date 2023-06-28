@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-aaaaaaa
 struct Contexto             ///dados dos nomes e lore
 {
     char Nome[15];
